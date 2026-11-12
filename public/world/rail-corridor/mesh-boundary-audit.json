@@ -1,0 +1,92 @@
+[
+  {
+    "corridorTile": "g-22_-9-rail0",
+    "machuTile": "0-0",
+    "maximumUnblendedMeshDifferenceMeters": 0.1209774627054685
+  },
+  {
+    "corridorTile": "g-22_-9-rail0",
+    "machuTile": "1-0",
+    "maximumUnblendedMeshDifferenceMeters": 0.39929299479717884
+  },
+  {
+    "corridorTile": "g-21_-9-rail0",
+    "machuTile": "1-0",
+    "maximumUnblendedMeshDifferenceMeters": 0.6404309266504242
+  },
+  {
+    "corridorTile": "g-21_-9-rail0",
+    "machuTile": "2-0",
+    "maximumUnblendedMeshDifferenceMeters": 1.4016845253026986
+  },
+  {
+    "corridorTile": "g-20_-9-rail0",
+    "machuTile": "2-0",
+    "maximumUnblendedMeshDifferenceMeters": 1.1915028833527685
+  },
+  {
+    "corridorTile": "g-20_-9-rail1",
+    "machuTile": "2-0",
+    "maximumUnblendedMeshDifferenceMeters": 2.422275080246436
+  },
+  {
+    "corridorTile": "g-20_-8-rail0",
+    "machuTile": "2-0",
+    "maximumUnblendedMeshDifferenceMeters": 1.2287722265914454
+  },
+  {
+    "corridorTile": "g-20_-8-rail0",
+    "machuTile": "2-1",
+    "maximumUnblendedMeshDifferenceMeters": 0.7202486231517469
+  },
+  {
+    "corridorTile": "g-20_-7-rail0",
+    "machuTile": "2-1",
+    "maximumUnblendedMeshDifferenceMeters": 1.4017202734266903
+  },
+  {
+    "corridorTile": "g-20_-7-rail0",
+    "machuTile": "2-2",
+    "maximumUnblendedMeshDifferenceMeters": 0.7337310254151816
+  },
+  {
+    "corridorTile": "g-23_-6-rail0",
+    "machuTile": "0-2",
+    "maximumUnblendedMeshDifferenceMeters": 2.298321144970487
+  },
+  {
+    "corridorTile": "g-23_-6-rail1",
+    "machuTile": "0-2",
+    "maximumUnblendedMeshDifferenceMeters": 3.3622529449439753
+  },
+  {
+    "corridorTile": "g-22_-6-rail0",
+    "machuTile": "0-2",
+    "maximumUnblendedMeshDifferenceMeters": 0.193634086419479
+  },
+  {
+    "corridorTile": "g-22_-6-rail0",
+    "machuTile": "1-2",
+    "maximumUnblendedMeshDifferenceMeters": 0.32581234140479864
+  },
+  {
+    "corridorTile": "g-21_-6-rail0",
+    "machuTile": "1-2",
+    "maximumUnblendedMeshDifferenceMeters": 0.4439489877122469
+  },
+  {
+    "corridorTile": "g-21_-6-rail0",
+    "machuTile": "2-2",
+    "maximumUnblendedMeshDifferenceMeters": 0.27959126114956234
+  },
+  {
+    "corridorTile": "g-20_-6-rail0",
+    "machuTile": "2-2",
+    "maximumUnblendedMeshDifferenceMeters": 1.2117841993049296
+  },
+  {
+    "corridorTile": "g-20_-6-rail1",
+    "machuTile": "2-2",
+    "maximumUnblendedMeshDifferenceMeters": 0.7768994267498783
+  }
+]

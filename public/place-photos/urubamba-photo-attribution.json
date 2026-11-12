@@ -1,0 +1,58 @@
+[
+  {
+    "file": "urubamba-plaza.jpg",
+    "subject": "urubamba-plaza",
+    "author": "James Challco Palomino",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Urubamba_(Lateral).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Iglesia_de_Urubamba_%28Lateral%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Iglesia_de_Urubamba_%28Lateral%29.jpg/1280px-Iglesia_de_Urubamba_%28Lateral%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "date": "2018-09-16 16:42:12",
+    "changes": "Wikimedia-generated 1280 px thumbnail; no crop or content edits.",
+    "sha256": "d1317aedec0e1337cf99fef8b36d0910d8b5644aeba6fbbcc571d84025b73cc8",
+    "bytes": 335625
+  },
+  {
+    "file": "urubamba-san-pedro.jpg",
+    "subject": "urubamba-san-pedro",
+    "author": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Pedro_Church_in_Urubamba_2019-10-10.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/San_Pedro_Church_in_Urubamba_2019-10-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/San_Pedro_Church_in_Urubamba_2019-10-10.jpg/1280px-San_Pedro_Church_in_Urubamba_2019-10-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "date": "Taken on 10 October 2019, 16:06:11",
+    "changes": "Wikimedia-generated 1280 px thumbnail; no crop or content edits.",
+    "sha256": "8dd6809f27193b946fe5486d6dde00496e5337f1adcaeb1f95e4affbcf88b0fd",
+    "bytes": 344176
+  },
+  {
+    "file": "urubamba-modelo.jpg",
+    "subject": "urubamba-modelo",
+    "author": "Yupanasimi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercado_Modelo_de_Urubamba_agosto2026_02.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mercado_Modelo_de_Urubamba_agosto2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Mercado_Modelo_de_Urubamba_agosto2026_02.jpg/1280px-Mercado_Modelo_de_Urubamba_agosto2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "date": "2026-08-15",
+    "changes": "Wikimedia-generated 1280 px thumbnail; no crop or content edits.",
+    "sha256": "1ccbba927750c514cf2da7fc8f48f827067318c0670d9b81da06c40ef191331f",
+    "bytes": 539930
+  },
+  {
+    "file": "urubamba-productores.jpg",
+    "subject": "urubamba-productores",
+    "author": "Yupanasimi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercado_de_productores_Urubamba_01.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mercado_de_productores_Urubamba_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Mercado_de_productores_Urubamba_01.jpg/1280px-Mercado_de_productores_Urubamba_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "date": "2026-08-26",
+    "changes": "Wikimedia-generated 1280 px thumbnail; no crop or content edits.",
+    "sha256": "ddefaafe0b6136942d52af99fc83b8b33a32ed391e504d247a972dbcb224c5f7",
+    "bytes": 686134
+  }
+]

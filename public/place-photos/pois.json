@@ -1,0 +1,782 @@
+{
+  "node/9821673470": {
+    "id": "aguas-station",
+    "name": "Machu Picchu Pueblo railway station",
+    "lon": -72.5239692,
+    "lat": -13.1558504,
+    "kind": "station",
+    "description": "Passenger railway station in the town’s Barrio Las Orquídeas.",
+    "source": "https://www.perurail.com/find-us/",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/9821673470",
+    "osmSource": "https://www.openstreetmap.org/node/9821673470",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Machu Picchu Pueblo",
+    "photo": {
+      "url": "/place-photos/aguas-station.jpg",
+      "alt": "Machu Picchu Pueblo railway station, May 2025",
+      "author": "Codas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguas_Calientes_railway_station_01.jpg"
+    },
+    "photoId": "aguas-station",
+    "photoScope": "subject",
+    "photoDate": "2025-05-17 16:06:33",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "featureId": "node/9821673470",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5239692,
+        -13.1558504
+      ]
+    },
+    "sourceTags": {
+      "alt_name": "Aguas Calientes",
+      "name": "Machu Picchu Pueblo",
+      "operator": "PeruRail",
+      "operator:wikidata": "Q1407952",
+      "public_transport": "station",
+      "railway": "station",
+      "train": "yes",
+      "wikidata": "Q21082666"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "node/660479850": {
+    "id": "aguas-church",
+    "name": "Virgen del Carmen church",
+    "lon": -72.5254502,
+    "lat": -13.1542118,
+    "kind": "church",
+    "description": "The named church beside the central plaza in Machu Picchu Pueblo. Its identity is tied to the mapped place-of-worship point.",
+    "source": "https://www.openstreetmap.org/node/660479850",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/660479850",
+    "osmSource": "https://www.openstreetmap.org/node/660479850",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Virgen del Carmen",
+    "photo": {
+      "url": "/place-photos/aguas-church-close.jpg",
+      "alt": "Entrance of Virgen del Carmen church in Machu Picchu Pueblo, May 2025",
+      "author": "Codas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Virgen_del_Carmen_(Machupicchu_pueblo).jpg"
+    },
+    "photoId": "aguas-church-close",
+    "photoScope": "subject",
+    "photoDate": "2025-05-16 21:19:28",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "featureId": "node/660479850",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5254502,
+        -13.1542118
+      ]
+    },
+    "sourceTags": {
+      "amenity": "place_of_worship",
+      "check_date": "2025-01-05",
+      "denomination": "roman_catholic",
+      "name": "Virgen del Carmen",
+      "religion": "christian"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "node/4382465293": {
+    "id": "aguas-museum",
+    "name": "Museo de Sitio Manuel Chávez Ballón",
+    "lon": -72.5392126,
+    "lat": -13.1609815,
+    "kind": "museum",
+    "description": "The site museum near Puente Ruinas presents archaeological objects and the history of the sanctuary.",
+    "source": "https://museos.cultura.pe/museos/museo-de-sitio-manuel-ch%C3%A1vez-ball%C3%B3n",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/4382465293",
+    "osmSource": "https://www.openstreetmap.org/node/4382465293",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Museo Manuel Chávez Ballon",
+    "featureId": "node/4382465293",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5392126,
+        -13.1609815
+      ]
+    },
+    "sourceTags": {
+      "addr:street": "Carretera Hiram Bingham",
+      "email": "museodesitiomapi@drc-cusco.gob.pe",
+      "name": "Museo Manuel Chávez Ballon",
+      "name:es": "Museo Manuel Chávez Ballon",
+      "opening_hours": "Mo-Su 09:00-16:30",
+      "phone": "+51 958194475",
+      "tourism": "museum",
+      "website": "http://museos.cultura.pe/museos/museo-de-sitio-manuel-ch%C3%A1vez-ball%C3%B3n"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "way/1534582112": {
+    "id": "aguas-hot-springs",
+    "name": "Baños Termales",
+    "lon": -72.52124709042994,
+    "lat": -13.1509211,
+    "kind": "thermal-baths",
+    "description": "Public thermal baths beside the Aguas Calientes stream above the town.",
+    "source": "https://munimachupicchu.gob.pe/munimapi/",
+    "sourceChecked": "2026-09-05",
+    "osmId": "way/1534582112",
+    "osmSource": "https://www.openstreetmap.org/way/1534582112",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "Representative point inside the OSM polygon; not a surveyed entrance",
+    "sourceName": "Baños Termales",
+    "photo": {
+      "url": "/place-photos/aguas-hot-springs.jpg",
+      "alt": "Thermal pools above Aguas Calientes, July 2012",
+      "author": "Pavel Špindler",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hork%C3%A9_prameny_nad_Aguas_Calientes_-_Hot_springs_-_panoramio.jpg"
+    },
+    "photoId": "aguas-hot-springs",
+    "photoScope": "subject",
+    "photoDate": "Taken on 2 July 2012",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "featureId": "way/1534582112",
+    "area": "machu",
+    "binding": "mapped-feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.5211496,
+            -13.1506355
+          ],
+          [
+            -72.5212582,
+            -13.150616
+          ],
+          [
+            -72.5213322,
+            -13.1512067
+          ],
+          [
+            -72.5212486,
+            -13.1512226
+          ],
+          [
+            -72.5211496,
+            -13.1506355
+          ]
+        ]
+      ]
+    },
+    "sourceTags": {
+      "amenity": "public_bath",
+      "check_date": "2025-11-13",
+      "fee": "yes",
+      "name": "Baños Termales",
+      "natural": "hot_spring",
+      "tourism": "attraction"
+    },
+    "identityNote": "Only bind to this exact OSM feature ID; no proximity-based building identity."
+  },
+  "way/1352946502": {
+    "id": "aguas-square",
+    "name": "Plaza Manco Cápac",
+    "lon": -72.52567756651548,
+    "lat": -13.154329400000002,
+    "kind": "square",
+    "description": "The central civic square of Machu Picchu Pueblo.",
+    "source": "https://munimachupicchu.gob.pe/munimapi/",
+    "sourceChecked": "2026-09-05",
+    "osmId": "way/1352946502",
+    "osmSource": "https://www.openstreetmap.org/way/1352946502",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "Representative point inside the OSM polygon; not a surveyed entrance",
+    "sourceName": "Plaza Manco Capac",
+    "featureId": "way/1352946502",
+    "area": "machu",
+    "binding": "mapped-feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.5258961,
+            -13.154369
+          ],
+          [
+            -72.5256313,
+            -13.1541838
+          ],
+          [
+            -72.5255645,
+            -13.1542402
+          ],
+          [
+            -72.5254872,
+            -13.1542898
+          ],
+          [
+            -72.5255551,
+            -13.1543843
+          ],
+          [
+            -72.5256945,
+            -13.1545404
+          ],
+          [
+            -72.5258961,
+            -13.154369
+          ]
+        ]
+      ]
+    },
+    "sourceTags": {
+      "name": "Plaza Manco Capac",
+      "place": "square"
+    },
+    "identityNote": "Only bind to this exact OSM feature ID; no proximity-based building identity."
+  },
+  "way/649704654": {
+    "id": "aguas-townhall",
+    "name": "Municipalidad de Machupicchu",
+    "lon": -72.5257784556951,
+    "lat": -13.15419425,
+    "kind": "townhall",
+    "description": "District municipal building on Plaza Manco Cápac. This is an explicitly named OSM building footprint.",
+    "source": "https://munimachupicchu.gob.pe/munimapi/",
+    "sourceChecked": "2026-09-05",
+    "osmId": "way/649704654",
+    "osmSource": "https://www.openstreetmap.org/way/649704654",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "Representative point inside the OSM polygon; not a surveyed entrance",
+    "sourceName": "Municipalidad de Machupicchu",
+    "featureId": "way/649704654",
+    "area": "machu",
+    "binding": "named-building-footprint",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.5257503,
+            -13.1540855
+          ],
+          [
+            -72.5258929,
+            -13.1542058
+          ],
+          [
+            -72.5258066,
+            -13.1543029
+          ],
+          [
+            -72.525664,
+            -13.1541827
+          ],
+          [
+            -72.5257503,
+            -13.1540855
+          ]
+        ]
+      ]
+    },
+    "sourceTags": {
+      "amenity": "townhall",
+      "building": "yes",
+      "check_date": "2025-11-13",
+      "name": "Municipalidad de Machupicchu",
+      "townhall:type": "district"
+    },
+    "identityNote": "Only bind to this exact OSM feature ID; no proximity-based building identity."
+  },
+  "way/840941004": {
+    "id": "aguas-market",
+    "name": "Mercado de Abastos",
+    "lon": -72.52557867424996,
+    "lat": -13.15485065,
+    "kind": "market",
+    "description": "The mapped central market building in Machu Picchu Pueblo.",
+    "source": "https://www.openstreetmap.org/way/840941004",
+    "sourceChecked": "2026-09-05",
+    "osmId": "way/840941004",
+    "osmSource": "https://www.openstreetmap.org/way/840941004",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "Representative point inside the OSM polygon; not a surveyed entrance",
+    "sourceName": "Mercado de Abastos",
+    "featureId": "way/840941004",
+    "area": "machu",
+    "binding": "named-building-footprint",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.5256928,
+            -13.154923
+          ],
+          [
+            -72.5256027,
+            -13.1547202
+          ],
+          [
+            -72.5254646,
+            -13.1547783
+          ],
+          [
+            -72.5255546,
+            -13.1549812
+          ],
+          [
+            -72.5256928,
+            -13.154923
+          ]
+        ]
+      ]
+    },
+    "sourceTags": {
+      "amenity": "marketplace",
+      "building": "yes",
+      "name": "Mercado de Abastos",
+      "name:en": "Central Market"
+    },
+    "identityNote": "Only bind to this exact OSM feature ID; no proximity-based building identity."
+  },
+  "node/874540057": {
+    "id": "temple-sun",
+    "name": "Temple of the Sun",
+    "lon": -72.5447486,
+    "lat": -13.1640796,
+    "kind": "archaeology",
+    "description": "A curved wall of closely fitted stone crowns a natural rock outcrop.",
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/874540057",
+    "osmSource": "https://www.openstreetmap.org/node/874540057",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Templo del Sol",
+    "photo": {
+      "url": "/place-photos/temple-sun.jpg",
+      "alt": "Curved masonry of the Temple of the Sun, November 2025",
+      "author": "Gedankenstuecke",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sun_Temple_Machu_Picchu_Nov_2025.jpg"
+    },
+    "photoId": "temple-sun",
+    "photoScope": "subject",
+    "photoDate": "2025-11-14 07:03:28",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "featureId": "node/874540057",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5447486,
+        -13.1640796
+      ]
+    },
+    "sourceTags": {
+      "amenity": "place_of_worship",
+      "name": "Templo del Sol",
+      "name:cs": "Chrám slunce",
+      "name:de": "Sonnentempel",
+      "name:en": "Temple of the Sun",
+      "name:ja": "太陽の神殿",
+      "name:sk": "Chrám slnka",
+      "religion": "inca",
+      "wikimedia_commons": "File:Sun Temple Machu Picchu Nov 2025.jpg"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "node/4621576989": {
+    "id": "three-windows",
+    "name": "Temple of the Three Windows",
+    "lon": -72.5452574,
+    "lat": -13.1636224,
+    "kind": "archaeology",
+    "description": "Three large trapezoidal openings pierce a wall of finely fitted stone.",
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/4621576989",
+    "osmSource": "https://www.openstreetmap.org/node/4621576989",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Templo de las Tres Ventanas",
+    "photo": {
+      "url": "/place-photos/three-windows.jpg",
+      "alt": "Temple of the Three Windows, May 2025",
+      "author": "flowcomm",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Three_Windows,_Machu_Picchu,_Peru.jpg"
+    },
+    "photoId": "three-windows",
+    "photoScope": "subject",
+    "photoDate": "2025-05-14 19:39:33",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "featureId": "node/4621576989",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5452574,
+        -13.1636224
+      ]
+    },
+    "sourceTags": {
+      "amenity": "place_of_worship",
+      "check_date": "2024-09-25",
+      "name": "Templo de las Tres Ventanas",
+      "name:cs": "Chrám tří oken",
+      "name:de": "Tempel der Drei Fenster",
+      "name:en": "Temple of the Three Windows",
+      "name:ja": "3つの窓の神殿",
+      "name:sk": "Chrám troch okien",
+      "name:zh": "三窗庙",
+      "religion": "inca"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "node/874540036": {
+    "id": "intihuatana",
+    "name": "Intihuatana",
+    "lon": -72.5456831,
+    "lat": -13.1630749,
+    "kind": "archaeology",
+    "description": "A carved stone monument on the terraced rise above the main ceremonial area. Its interpretation remains part of archaeological research.",
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/874540036",
+    "osmSource": "https://www.openstreetmap.org/node/874540036",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Intihuantana",
+    "photo": {
+      "url": "/place-photos/intihuatana.jpg",
+      "alt": "Terraced hill supporting Intihuatana, July 2015; setting view, not a close-up of the carved stone",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_46.JPG"
+    },
+    "photoId": "intihuatana",
+    "photoScope": "setting",
+    "photoDate": "2015-07-30 15:58:22",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "featureId": "node/874540036",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5456831,
+        -13.1630749
+      ]
+    },
+    "sourceTags": {
+      "name": "Intihuantana",
+      "name:ja": "インティワタナ",
+      "natural": "stone",
+      "wikidata": "Q3331808",
+      "wikipedia": "es:Intihuatana"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "node/874540061": {
+    "id": "temple-condor",
+    "name": "Temple of the Condor",
+    "lon": -72.5445436,
+    "lat": -13.1635769,
+    "kind": "archaeology",
+    "description": "A named sanctuary feature that combines exposed natural rock and Inca stonework.",
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/874540061",
+    "osmSource": "https://www.openstreetmap.org/node/874540061",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Templo del Condor",
+    "featureId": "node/874540061",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5445436,
+        -13.1635769
+      ]
+    },
+    "sourceTags": {
+      "amenity": "place_of_worship",
+      "name": "Templo del Condor",
+      "name:cs": "Chrám kondora",
+      "name:de": "Kondortempel",
+      "name:en": "Temple of the Condor",
+      "name:it": "Tempio del condor",
+      "name:ja": "コンドルの神殿",
+      "name:sk": "Chrám kondora",
+      "religion": "inca",
+      "wikimedia_commons": "File:Temple of the Condor at Machu Picchu.jpg"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "node/874540031": {
+    "id": "royal-tomb",
+    "name": "Royal Tomb",
+    "lon": -72.54472,
+    "lat": -13.1640531,
+    "kind": "archaeology",
+    "description": "The named rock-cut feature beneath the Temple of the Sun. The traditional name does not establish the identity of an occupant.",
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/874540031",
+    "osmSource": "https://www.openstreetmap.org/node/874540031",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Tumba Real",
+    "featureId": "node/874540031",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.54472,
+        -13.1640531
+      ]
+    },
+    "sourceTags": {
+      "historic": "tomb",
+      "name": "Tumba Real",
+      "name:cs": "Královská hrobka",
+      "name:de": "Königsgrab",
+      "name:en": "Tomb of the King",
+      "name:sk": "Kráľovská hrobka",
+      "wikimedia_commons": "File:Below Temple of the Sun at Machu Picchu.jpg"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "node/874540069": {
+    "id": "city-gate",
+    "name": "City Gate",
+    "lon": -72.545042,
+    "lat": -13.1647471,
+    "kind": "archaeology",
+    "description": "A mapped stone gateway in the southern part of the Machu Picchu archaeological complex.",
+    "source": "https://www.openstreetmap.org/node/874540069",
+    "sourceChecked": "2026-09-05",
+    "osmId": "node/874540069",
+    "osmSource": "https://www.openstreetmap.org/node/874540069",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "OSM mapped node",
+    "sourceName": "Puerta de la Ciudad",
+    "featureId": "node/874540069",
+    "area": "machu",
+    "binding": "mapped-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.545042,
+        -13.1647471
+      ]
+    },
+    "sourceTags": {
+      "historic": "city_gate",
+      "name": "Puerta de la Ciudad",
+      "name:cs": "Městská brána",
+      "name:de": "Stadttor",
+      "name:en": "City Gate",
+      "name:sk": "Mestská brána"
+    },
+    "identityNote": "Do not bind this point to a nearby unnamed footprint."
+  },
+  "way/614955542": {
+    "id": "intipunku",
+    "name": "Intipunku · Sun Gate",
+    "lon": -72.53393026897712,
+    "lat": -13.1697518,
+    "kind": "archaeology",
+    "description": "Mapped Inca ruins on the ridge southeast of the citadel.",
+    "source": "https://www.openstreetmap.org/way/614955542",
+    "sourceChecked": "2026-09-05",
+    "osmId": "way/614955542",
+    "osmSource": "https://www.openstreetmap.org/way/614955542",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "Representative point inside the OSM polygon; not a surveyed entrance",
+    "sourceName": "Intipunku",
+    "featureId": "way/614955542",
+    "area": "machu",
+    "binding": "mapped-feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.5340011,
+            -13.1697723
+          ],
+          [
+            -72.5339929,
+            -13.1698635
+          ],
+          [
+            -72.5339051,
+            -13.1697985
+          ],
+          [
+            -72.5338621,
+            -13.1697313
+          ],
+          [
+            -72.5338232,
+            -13.1696891
+          ],
+          [
+            -72.5338817,
+            -13.1696685
+          ],
+          [
+            -72.5339355,
+            -13.1696811
+          ],
+          [
+            -72.533966,
+            -13.1697267
+          ],
+          [
+            -72.5340011,
+            -13.1697723
+          ]
+        ]
+      ]
+    },
+    "sourceTags": {
+      "alt_name": "Puerta de Sol",
+      "alt_name:cs": "Sluneční brána",
+      "alt_name:de": "Sonnentor",
+      "alt_name:en": "Sun Gate",
+      "alt_name:sk": "Slnečná brána",
+      "ele": "2720",
+      "historic": "ruins",
+      "name": "Intipunku",
+      "name:en": "Sun Gate",
+      "wikidata": "Q11120323",
+      "wikipedia": "es:Inti Punku"
+    },
+    "identityNote": "Only bind to this exact OSM feature ID; no proximity-based building identity."
+  },
+  "way/363418345": {
+    "id": "temple-moon",
+    "name": "Temple of the Moon",
+    "lon": -72.54647727070002,
+    "lat": -13.151691249999999,
+    "kind": "archaeology",
+    "description": "A separately mapped archaeological site on the Huayna Picchu side of the sanctuary.",
+    "source": "https://www.openstreetmap.org/way/363418345",
+    "sourceChecked": "2026-09-05",
+    "osmId": "way/363418345",
+    "osmSource": "https://www.openstreetmap.org/way/363418345",
+    "coordinateSourceDate": "2026-09-03",
+    "coordinateMethod": "Representative point inside the OSM polygon; not a surveyed entrance",
+    "sourceName": "Templo de la Luna",
+    "featureId": "way/363418345",
+    "area": "machu",
+    "binding": "mapped-feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.546693,
+            -13.1517565
+          ],
+          [
+            -72.546921,
+            -13.1518976
+          ],
+          [
+            -72.5470283,
+            -13.1519707
+          ],
+          [
+            -72.5469183,
+            -13.152083
+          ],
+          [
+            -72.5467493,
+            -13.1521144
+          ],
+          [
+            -72.5465857,
+            -13.1521065
+          ],
+          [
+            -72.5464114,
+            -13.1520203
+          ],
+          [
+            -72.5464248,
+            -13.1518793
+          ],
+          [
+            -72.5463685,
+            -13.1517618
+          ],
+          [
+            -72.5463551,
+            -13.151626
+          ],
+          [
+            -72.546221,
+            -13.1515737
+          ],
+          [
+            -72.546178,
+            -13.151464
+          ],
+          [
+            -72.5462049,
+            -13.1513831
+          ],
+          [
+            -72.5462826,
+            -13.1514588
+          ],
+          [
+            -72.5464409,
+            -13.151592
+          ],
+          [
+            -72.546693,
+            -13.1517565
+          ]
+        ]
+      ]
+    },
+    "sourceTags": {
+      "amenity": "place_of_worship",
+      "historic": "archaeological_site",
+      "name": "Templo de la Luna",
+      "name:cs": "Chrám měsíce",
+      "name:de": "Mondtempel",
+      "name:en": "Temple of the Moon",
+      "name:sk": "Chrám mesíaca",
+      "religion": "inca",
+      "wikidata": "Q634026",
+      "wikipedia": "es:Templo de la Luna"
+    },
+    "identityNote": "Only bind to this exact OSM feature ID; no proximity-based building identity."
+  }
+}

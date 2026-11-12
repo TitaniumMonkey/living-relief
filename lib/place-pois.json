@@ -1,0 +1,209 @@
+[
+  {
+    "id": "aguas-station",
+    "name": "Machu Picchu Pueblo railway station",
+    "lat": -13.1558504,
+    "lon": -72.5239692,
+    "source": "https://www.perurail.com/find-us/",
+    "photo": {
+      "url": "/place-photos/aguas-station.jpg",
+      "alt": "Machu Picchu Pueblo railway station, May 2025",
+      "author": "Codas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguas_Calientes_railway_station_01.jpg"
+    },
+    "kind": "STATION",
+    "note": "Passenger railway station in the town’s Barrio Las Orquídeas.",
+    "detail": true,
+    "featureId": "node/9821673470"
+  },
+  {
+    "id": "aguas-church",
+    "name": "Virgen del Carmen church",
+    "lat": -13.1542118,
+    "lon": -72.5254502,
+    "source": "https://www.openstreetmap.org/node/660479850",
+    "photo": {
+      "url": "/place-photos/aguas-church-close.jpg",
+      "alt": "Entrance of Virgen del Carmen church in Machu Picchu Pueblo, May 2025",
+      "author": "Codas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Virgen_del_Carmen_(Machupicchu_pueblo).jpg"
+    },
+    "kind": "CHURCH",
+    "note": "The named church beside the central plaza in Machu Picchu Pueblo. Its identity is tied to the mapped place-of-worship point.",
+    "detail": true,
+    "featureId": "node/660479850"
+  },
+  {
+    "id": "aguas-museum",
+    "name": "Museo de Sitio Manuel Chávez Ballón",
+    "lat": -13.1609815,
+    "lon": -72.5392126,
+    "source": "https://museos.cultura.pe/museos/museo-de-sitio-manuel-ch%C3%A1vez-ball%C3%B3n",
+    "kind": "MUSEUM",
+    "note": "The site museum near Puente Ruinas presents archaeological objects and the history of the sanctuary.",
+    "detail": true,
+    "featureId": "node/4382465293"
+  },
+  {
+    "id": "aguas-hot-springs",
+    "name": "Baños Termales",
+    "lat": -13.1509211,
+    "lon": -72.52124709042994,
+    "source": "https://munimachupicchu.gob.pe/munimapi/",
+    "photo": {
+      "url": "/place-photos/aguas-hot-springs.jpg",
+      "alt": "Thermal pools above Aguas Calientes, July 2012",
+      "author": "Pavel Špindler",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hork%C3%A9_prameny_nad_Aguas_Calientes_-_Hot_springs_-_panoramio.jpg"
+    },
+    "kind": "THERMAL-BATHS",
+    "note": "Public thermal baths beside the Aguas Calientes stream above the town.",
+    "detail": true,
+    "featureId": "way/1534582112"
+  },
+  {
+    "id": "aguas-square",
+    "name": "Plaza Manco Cápac",
+    "lat": -13.154329400000002,
+    "lon": -72.52567756651548,
+    "source": "https://munimachupicchu.gob.pe/munimapi/",
+    "kind": "SQUARE",
+    "note": "The central civic square of Machu Picchu Pueblo.",
+    "detail": true,
+    "featureId": "way/1352946502"
+  },
+  {
+    "id": "aguas-townhall",
+    "name": "Municipalidad de Machupicchu",
+    "lat": -13.15419425,
+    "lon": -72.5257784556951,
+    "source": "https://munimachupicchu.gob.pe/munimapi/",
+    "kind": "TOWNHALL",
+    "note": "District municipal building on Plaza Manco Cápac. This is an explicitly named OSM building footprint.",
+    "detail": true,
+    "featureId": "way/649704654"
+  },
+  {
+    "id": "aguas-market",
+    "name": "Mercado de Abastos",
+    "lat": -13.15485065,
+    "lon": -72.52557867424996,
+    "source": "https://www.openstreetmap.org/way/840941004",
+    "kind": "MARKET",
+    "note": "The mapped central market building in Machu Picchu Pueblo.",
+    "detail": true,
+    "featureId": "way/840941004"
+  },
+  {
+    "id": "temple-sun",
+    "name": "Temple of the Sun",
+    "lat": -13.1640796,
+    "lon": -72.5447486,
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "photo": {
+      "url": "/place-photos/temple-sun.jpg",
+      "alt": "Curved masonry of the Temple of the Sun, November 2025",
+      "author": "Gedankenstuecke",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sun_Temple_Machu_Picchu_Nov_2025.jpg"
+    },
+    "kind": "INCA LANDMARK",
+    "note": "A curved wall of closely fitted stone crowns a natural rock outcrop.",
+    "detail": true,
+    "featureId": "node/874540057"
+  },
+  {
+    "id": "three-windows",
+    "name": "Temple of the Three Windows",
+    "lat": -13.1636224,
+    "lon": -72.5452574,
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "photo": {
+      "url": "/place-photos/three-windows.jpg",
+      "alt": "Temple of the Three Windows, May 2025",
+      "author": "flowcomm",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Three_Windows,_Machu_Picchu,_Peru.jpg"
+    },
+    "kind": "INCA LANDMARK",
+    "note": "Three large trapezoidal openings pierce a wall of finely fitted stone.",
+    "detail": true,
+    "featureId": "node/4621576989"
+  },
+  {
+    "id": "intihuatana",
+    "name": "Intihuatana",
+    "lat": -13.1630749,
+    "lon": -72.5456831,
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "photo": {
+      "url": "/place-photos/intihuatana.jpg",
+      "alt": "Terraced hill supporting Intihuatana, July 2015; setting view, not a close-up of the carved stone",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_46.JPG"
+    },
+    "kind": "INCA LANDMARK",
+    "note": "A carved stone monument on the terraced rise above the main ceremonial area. Its interpretation remains part of archaeological research.",
+    "detail": true,
+    "featureId": "node/874540036"
+  },
+  {
+    "id": "temple-condor",
+    "name": "Temple of the Condor",
+    "lat": -13.1635769,
+    "lon": -72.5445436,
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "kind": "INCA LANDMARK",
+    "note": "A named sanctuary feature that combines exposed natural rock and Inca stonework.",
+    "detail": true,
+    "featureId": "node/874540061"
+  },
+  {
+    "id": "royal-tomb",
+    "name": "Royal Tomb",
+    "lat": -13.1640531,
+    "lon": -72.54472,
+    "source": "https://www.machupicchu.gob.pe/wp-content/uploads/2022/02/09-Art.-Llaqta-de-Machupicchu-sacralidad-y-proceso-constructivo.pdf",
+    "kind": "INCA LANDMARK",
+    "note": "The named rock-cut feature beneath the Temple of the Sun. The traditional name does not establish the identity of an occupant.",
+    "detail": true,
+    "featureId": "node/874540031"
+  },
+  {
+    "id": "city-gate",
+    "name": "City Gate",
+    "lat": -13.1647471,
+    "lon": -72.545042,
+    "source": "https://www.openstreetmap.org/node/874540069",
+    "kind": "INCA LANDMARK",
+    "note": "A mapped stone gateway in the southern part of the Machu Picchu archaeological complex.",
+    "detail": true,
+    "featureId": "node/874540069"
+  },
+  {
+    "id": "intipunku",
+    "name": "Intipunku · Sun Gate",
+    "lat": -13.1697518,
+    "lon": -72.53393026897712,
+    "source": "https://www.openstreetmap.org/way/614955542",
+    "kind": "INCA LANDMARK",
+    "note": "Mapped Inca ruins on the ridge southeast of the citadel.",
+    "detail": true,
+    "featureId": "way/614955542"
+  },
+  {
+    "id": "temple-moon",
+    "name": "Temple of the Moon",
+    "lat": -13.151691249999999,
+    "lon": -72.54647727070002,
+    "source": "https://www.openstreetmap.org/way/363418345",
+    "kind": "INCA LANDMARK",
+    "note": "A separately mapped archaeological site on the Huayna Picchu side of the sanctuary.",
+    "detail": true,
+    "featureId": "way/363418345"
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "id": "machu",
+    "name": "Machu Picchu",
+    "lat": -13.164341,
+    "lon": -72.54500943365923,
+    "source": "https://whc.unesco.org/en/list/274/",
+    "photo": {
+      "url": "/place-photos/machu.jpg",
+      "alt": "Stone buildings and mountain setting at Machu Picchu, July 2015",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG"
+    },
+    "kind": "INCA LANDMARK",
+    "note": "Inca stone buildings and terraces occupy a steep ridge above the Urubamba gorge, surrounded by tropical mountain forest."
+  },
+  {
+    "id": "aguas",
+    "name": "Machu Picchu Pueblo · Aguas Calientes",
+    "lat": -13.1542838,
+    "lon": -72.5256464,
+    "source": "https://munimachupicchu.gob.pe/munimapi/",
+    "photo": {
+      "url": "/place-photos/aguas.jpg",
+      "alt": "Aguas Calientes stream and the town around it, April 2025",
+      "author": "Jorge Castro Ruso",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguas_Calientes_-_Per%C3%BA.jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "The river town below the sanctuary, with rail arrivals, a central plaza, and thermal baths along the Aguas Calientes stream."
+  },
+  {
+    "id": "urubamba",
+    "name": "Urubamba",
+    "lat": -13.305953,
+    "lon": -72.1159706,
+    "source": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0380/Libro.pdf",
+    "photo": {
+      "url": "/place-photos/urubamba.jpg",
+      "alt": "Bridge, river, and Urubamba town, November 2019",
+      "author": "Thayne Tuason",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Urubamba_Peru-_bridge_and_town.jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "A major town on the broad floor of the Sacred Valley, beside the Vilcanota–Urubamba river corridor."
+  },
+  {
+    "id": "ollanta",
+    "name": "Ollantaytambo",
+    "lat": -13.2586458,
+    "lon": -72.2636012,
+    "source": "https://www.culturacusco.gob.pe/post/patrimonio-cultural/parques-arq/",
+    "photo": {
+      "url": "/place-photos/ollanta.jpg",
+      "alt": "Ollantaytambo archaeological site, photographed in March 1984",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ollantaytambo,_Peru.jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "Town and Inca archaeological complex where terraces climb above the valley."
+  },
+  {
+    "id": "cusco",
+    "name": "Cusco",
+    "lat": -13.5170887,
+    "lon": -71.9785356,
+    "source": "https://whc.unesco.org/en/list/273/",
+    "photo": {
+      "url": "/place-photos/cusco.jpg",
+      "alt": "Cathedral and Plaza de Armas in Cusco, July 2015",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Catedral,_Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_57.JPG"
+    },
+    "kind": "HISTORIC CITY",
+    "note": "The former Inca capital occupies a high Andean basin; its historic center combines Inca urban foundations with colonial buildings."
+  },
+  {
+    "id": "sacsay",
+    "name": "Sacsayhuamán",
+    "lat": -13.508471134975771,
+    "lon": -71.98216428445183,
+    "source": "https://www.culturacusco.gob.pe/post/patrimonio-cultural/parques-arq/",
+    "photo": {
+      "url": "/place-photos/sacsay.jpg",
+      "alt": "Monumental stone walls at Sacsayhuamán, July 2015",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sacsayhuam%C3%A1n,_Cusco,_Per%C3%BA,_2015-07-31,_DD_27.JPG"
+    },
+    "kind": "INCA LANDMARK",
+    "note": "Monumental fitted-stone walls rise on the hillside above Cusco. The photograph shows masonry details that regional terrain cannot resolve."
+  },
+  {
+    "id": "pisac",
+    "name": "Pisac",
+    "lat": -13.4210472,
+    "lon": -71.850496,
+    "source": "https://www.culturacusco.gob.pe/post/patrimonio-cultural/parques-arq/",
+    "photo": {
+      "url": "/place-photos/pisac.jpg",
+      "alt": "Q’alla Q’asa sector of the Pisac archaeological site above the town, March 2024",
+      "author": "MorePix",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Inca_Ruins_at_Pisac,_Peru,_2024.jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "The town lies beneath a large Inca archaeological landscape of terraces and stone buildings on the mountain above."
+  },
+  {
+    "id": "moray",
+    "name": "Moray",
+    "lat": -13.3298634,
+    "lon": -72.19581526417444,
+    "source": "https://meetings.peru.travel/destinations/cusco",
+    "photo": {
+      "url": "/place-photos/moray.jpg",
+      "alt": "Concentric terraces at Moray, October 2017",
+      "author": "Laslovarga",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Moray,_Peru_-_Laslovarga_(4).jpg"
+    },
+    "kind": "INCA LANDMARK",
+    "note": "Concentric Inca terraces descend into natural depressions on the plateau above the Sacred Valley."
+  },
+  {
+    "id": "maras-salt",
+    "name": "Salineras de Maras",
+    "lat": -13.3038476,
+    "lon": -72.1540223,
+    "source": "https://meetings.peru.travel/destinations/cusco",
+    "photo": {
+      "url": "/place-photos/maras-salt.jpg",
+      "alt": "Salt evaporation ponds at Maras, July 2015",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Salineras_de_Maras,_Maras,_Per%C3%BA,_2015-07-30,_DD_08.JPG"
+    },
+    "kind": "CULTURAL LANDSCAPE",
+    "note": "Salt ponds step down the ravine below Maras. This 3D scene has level basins, raised rims, and salt-crusted retaining walls within the mapped compound. Individual pond shapes and heights are illustrative, not a survey.",
+    "featureId": "way/66568490"
+  },
+  {
+    "id": "maras",
+    "name": "Maras",
+    "lat": -13.3339351,
+    "lon": -72.1562666,
+    "source": "https://meetings.peru.travel/destinations/cusco",
+    "photo": {
+      "url": "/place-photos/maras.jpg",
+      "alt": "Maras town, July 2015",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Maras,_Per%C3%BA,_2015-07-30,_DD_26.JPG"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "A plateau town above the Sacred Valley, near the salt ponds and the terraces of Moray."
+  },
+  {
+    "id": "chinchero",
+    "name": "Chinchero",
+    "lat": -13.3957999,
+    "lon": -72.051771,
+    "source": "https://www.culturacusco.gob.pe/post/patrimonio-cultural/parques-arq/",
+    "photo": {
+      "url": "/place-photos/chinchero.jpg",
+      "alt": "Chinchero, May 2023",
+      "author": "Draceane",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinchero,_2023,_(09).jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "A highland town and archaeological park in Urubamba province, with stone terraces and a historic church above the valley."
+  },
+  {
+    "id": "chinchero-airport",
+    "name": "Chinchero International Airport · construction",
+    "lat": -13.394334050000001,
+    "lon": -72.0655776666514,
+    "source": "https://www.gob.pe/institucion/regioncusco/noticias/1413055-gobernador-werner-salcedo-demanda-al-ejecutivo-garantizar-financiamiento-para-conclusion-del-aeropuerto-internacional-de-chinchero",
+    "photo": {
+      "url": "/place-photos/chinchero-airport.jpg",
+      "alt": "Historical view of Chinchero airport construction behind the town, May 2023",
+      "author": "Draceane",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinchero,_2023,_(06).jpg"
+    },
+    "kind": "INFRASTRUCTURE",
+    "note": "Airport construction on the Chinchero plateau. The mapped construction boundary appears as graded ground; individual runway and terminal layouts are not mapped here. Official June 2026 reports describe continuing works. Photo: May 2023."
+  },
+  {
+    "id": "calca",
+    "name": "Calca",
+    "lat": -13.3216818,
+    "lon": -71.9560084,
+    "source": "https://www.culturacusco.gob.pe/post/patrimonio-cultural/parques-arq/",
+    "photo": {
+      "url": "/place-photos/calca.jpg",
+      "alt": "Calca town viewed toward the west, November 2019",
+      "author": "Thayne Tuason",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Calca_Peru-_looking_to_the_west_over_town.jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "A valley town on a short plain between mountains, where the Ccocho stream descends toward the Vilcanota."
+  },
+  {
+    "id": "yucay",
+    "name": "Yucay",
+    "lat": -13.3210838,
+    "lon": -72.0847651,
+    "source": "https://www.gob.pe/institucion/serfor/noticias/574234-en-cusco-el-serfor-promovio-el-reconocimiento-de-diez-arboles-patrimoniales-en-el-2021",
+    "photo": {
+      "url": "/place-photos/yucay.jpg",
+      "alt": "Yucay town, March 2006",
+      "author": "Ynsalh",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yucay.jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "A Sacred Valley town with historic plazas and the church of Santiago Apóstol."
+  },
+  {
+    "id": "lamay",
+    "name": "Lamay",
+    "lat": -13.3645205,
+    "lon": -71.9203033,
+    "source": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0380/Libro.pdf",
+    "photo": {
+      "url": "/place-photos/lamay.jpg",
+      "alt": "Lamay seen from the church, November 2019",
+      "author": "Thayne Tuason",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lamay_District_Peru-_View_from_Church.jpg"
+    },
+    "kind": "VALLEY TOWN",
+    "note": "A Sacred Valley town between Pisac and Calca, beside the river corridor."
+  },
+  {
+    "id": "coya",
+    "name": "Coya",
+    "lat": -13.3863918,
+    "lon": -71.8985883,
+    "source": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0380/Libro.pdf",
+    "kind": "VALLEY TOWN",
+    "note": "A town along the Sacred Valley river corridor between Pisac and Lamay."
+  },
+  {
+    "id": "huayllabamba",
+    "name": "Huayllabamba",
+    "lat": -13.3382701,
+    "lon": -72.0651037,
+    "source": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0380/Libro.pdf",
+    "kind": "VALLEY TOWN",
+    "note": "A Sacred Valley town east of Yucay and Urubamba."
+  },
+  {
+    "id": "cusco-airport",
+    "name": "Alejandro Velasco Astete Airport",
+    "lon": -71.94367176584626,
+    "lat": -13.537895299999999,
+    "featureId": "way/4818980",
+    "kind": "CUZ · AIRPORT TERMINAL",
+    "note": "Cusco’s operational airport, within the city east of the historic centre. The mapped 10/28 runway is 3,400 metres long and 45 metres wide. The terminal footprint has a mapped height of 8 metres and two levels. Taxiway widths and runway paint are illustrative.",
+    "source": "https://www.gob.pe/institucion/mtc/noticias/1339115-mtc-y-corpac-impulsan-la-rehabilitacion-del-aeropuerto-internacional-del-cusco"
+  }
+]

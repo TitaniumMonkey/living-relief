@@ -1,0 +1,1 @@
+{"id":"machu","bounds":[-72.605,-13.205,-72.485,-13.12],"zoom":13,"n":513,"min":1429.191650390625,"max":4200.4384765625,"source":"Mapzen Terrain Tiles / AWS Open Data","accessed":"2026-09-05","interpolation":"bilinear across tile boundaries","layers":"/layers/machu.json","sampleSpacingMeters":25}

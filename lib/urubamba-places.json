@@ -1,0 +1,107 @@
+[
+  {
+    "id": "urubamba-plaza",
+    "name": "Plaza de Armas de Urubamba",
+    "lat": -13.305939250000002,
+    "lon": -72.11596342813279,
+    "source": "https://www.gob.pe/institucion/muniurubamba/noticias/658740-municipalidad-de-urubamba-desarrollara-el-26-de-agosto-campana-integral-para-adultos-mayores",
+    "kind": "SQUARE",
+    "note": "The central civic square of Urubamba, framed by the town’s street grid and San Pedro Apóstol church. A useful starting point for exploring the markets and public places around the center.",
+    "detail": true,
+    "featureId": "way/1213384196",
+    "photo": {
+      "url": "/place-photos/urubamba-plaza.jpg",
+      "alt": "San Pedro church and its steps on the northern edge of Urubamba’s Plaza de Armas, September 2018; a view of the square’s church frontage",
+      "author": "James Challco Palomino",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Urubamba_(Lateral).jpg"
+    }
+  },
+  {
+    "id": "urubamba-san-pedro",
+    "name": "Iglesia San Pedro Apóstol",
+    "lat": -13.3052593,
+    "lon": -72.11591895980496,
+    "source": "https://www.gob.pe/institucion/muniurubamba/noticias/658740-municipalidad-de-urubamba-desarrollara-el-26-de-agosto-campana-integral-para-adultos-mayores",
+    "kind": "CHURCH",
+    "note": "The Catholic parish church facing Urubamba’s main square. Its broad stone frontage, tiered bell wall, entrance steps, and tiled nave roof are visible in the photographed present-day building.",
+    "detail": true,
+    "featureId": "way/788306774",
+    "photo": {
+      "url": "/place-photos/urubamba-san-pedro.jpg",
+      "alt": "Stone facade and stepped bell wall of San Pedro Apóstol church in Urubamba, October 2019",
+      "author": "Alexey Komarov",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:San_Pedro_Church_in_Urubamba_2019-10-10.jpg"
+    }
+  },
+  {
+    "id": "urubamba-torrechayoc",
+    "name": "Santuario del Señor de Torrechayoc",
+    "lat": -13.3013793,
+    "lon": -72.11807,
+    "source": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13222",
+    "kind": "SANCTUARY",
+    "note": "The sanctuary north of the town center is associated with Urubamba’s devotion to the Señor de Torrechayoc. The annual festival brings together religious processions, music, and local dance traditions.",
+    "detail": true,
+    "featureId": "node/460425455"
+  },
+  {
+    "id": "urubamba-modelo",
+    "name": "Mercado Modelo de Urubamba",
+    "lat": -13.3055718,
+    "lon": -72.11704396639327,
+    "source": "https://www.gob.pe/institucion/produce/noticias/1023105-produce-y-municipalidad-de-urubamba-firman-convenio-para-modernizar-mercado-beneficiando-a-mas-de-16-000-habitantes",
+    "kind": "MARKET",
+    "note": "The covered central market west of the main square. Local traders sell food and everyday provisions here; the interior photograph shows its aisles, upper gallery, and produce stalls.",
+    "detail": true,
+    "featureId": "way/331463104",
+    "photo": {
+      "url": "/place-photos/urubamba-modelo.jpg",
+      "alt": "Interior aisles and stalls of Mercado Modelo de Urubamba, August 2026",
+      "author": "Yupanasimi",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercado_Modelo_de_Urubamba_agosto2026_02.jpg"
+    }
+  },
+  {
+    "id": "urubamba-productores",
+    "name": "Mercado de Productores de Urubamba",
+    "lat": -13.30612875,
+    "lon": -72.11972629147533,
+    "source": "https://www.gob.pe/institucion/muniurubamba/noticias/1214955-urubamba-fortalece-su-economia-local-y-revalora-su-identidad-con-el-trabajo-de-sus-productores",
+    "kind": "PRODUCERS MARKET",
+    "note": "A separate producers’ market west of the center, connecting Urubamba with growers from across the province. The municipal anniversary festival highlights local agricultural products and food traditions.",
+    "detail": true,
+    "featureId": "way/970234139",
+    "photo": {
+      "url": "/place-photos/urubamba-productores.jpg",
+      "alt": "Produce stalls during the Wednesday fair at Mercado de Productores in Urubamba, 26 August 2026",
+      "author": "Yupanasimi",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercado_de_productores_Urubamba_01.jpg"
+    }
+  },
+  {
+    "id": "urubamba-qespiwanka",
+    "name": "Qespiwanka · Palacio de Huayna Cápac",
+    "lat": -13.3009819,
+    "lon": -72.11288030445911,
+    "source": "https://www.gob.pe/institucion/muniurubamba/noticias/905318-quespiwanka-2023",
+    "kind": "INCA LANDMARK",
+    "note": "Surviving remains of the palace associated with Inca ruler Wayna Qhapaq, on the northern side of Urubamba. The atlas marks the mapped ruin footprint; it does not reconstruct the palace in its inhabited form.",
+    "detail": true,
+    "featureId": "way/664518719"
+  },
+  {
+    "id": "urubamba-qespiwanka-museum",
+    "name": "Museo de Qespiwanka",
+    "lat": -13.3002007,
+    "lon": -72.1137617,
+    "source": "https://www.culturacusco.gob.pe/post/museos/museo-de-qespiwanka/",
+    "kind": "MUSEUM",
+    "note": "In the restored Casa Hacienda Pino, five exhibition rooms explore the Qhapaq Ñan road network, Qespiwanka palace, and Urubamba’s living traditions. This museum is distinct from the nearby palace ruins.",
+    "detail": true,
+    "featureId": "node/9278423795"
+  }
+]

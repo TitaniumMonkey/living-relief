@@ -1,0 +1,1 @@
+{"id":"valley","bounds":[-72.65,-13.6,-71.75,-13.05],"zoom":13,"n":1025,"min":1266.4482421875,"max":6225.92724609375,"source":"Mapzen Terrain Tiles / AWS Open Data","accessed":"2026-09-05","interpolation":"bilinear across tile boundaries","layers":"/layers/valley.json","sampleSpacingMeters":95}

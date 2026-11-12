@@ -1,0 +1,22 @@
+{
+  "url": "https://download.geofabrik.de/south-america/peru.html",
+  "date": "2026-09-03T20:21:51Z",
+  "license": "OpenStreetMap contributors \u00b7 ODbL 1.0 \u00b7 https://www.openstreetmap.org/copyright",
+  "bounds": [
+    -72.65,
+    -13.6,
+    -71.75,
+    -13.05
+  ],
+  "notes": [
+    "One-time extract from the cached Peru OSM PBF. Includes operational railway=rail and railway=narrow_gauge (the mapped 914 mm PeruRail passenger line), excluding abandoned/disused/proposed lines. Directed driving and walking edges; railway edges permit illustrative travel in either direction. Rail access=private is retained because operating passenger tracks are private infrastructure; rail access=no and yard/spur/siding tracks are excluded. Road access and motor/foot restrictions are honored as tagged. Destination-only roads remain available for reaching destinations. No turn restrictions, schedules, traffic, conditional restrictions or live navigation; distances are mapped segment lengths, not travel-time guarantees. Missing/out-of-bounds segments are not connected artificially. Map data is not permission to enter restricted places."
+  ],
+  "model": {
+    "description": "Original procedural PeruRail-style diesel locomotive and panoramic coaches, based on exterior photo references. Dimensions, coach count and details are illustrative, not a surveyed vehicle or a guarantee of the service booked. Rails use mapped 914 mm gauge; nearby sleepers, rail profile and ballast are illustrative. No photo textures are redistributed.",
+    "references": [
+      "https://www.perurail.com/train-services/perurail-expedition/",
+      "https://www.valenciatravelcusco.com/passion-passport/why-travel-peru-by-train"
+    ],
+    "modelDate": "2026-09-08"
+  }
+}

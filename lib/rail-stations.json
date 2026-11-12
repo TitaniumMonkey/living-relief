@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ollanta-station",
+    "name": "Ollantaytambo railway station",
+    "lon": -72.2705005,
+    "lat": -13.2630725,
+    "kind": "RAILWAY STATION",
+    "note": "Mapped railway station at Ollantaytambo, connecting the Sacred Valley with Aguas Calientes. The pin identifies the station; the animated train is an illustrative rail journey.",
+    "source": "https://www.openstreetmap.org/node/7179907919",
+    "coordinateNote": "OSM railway=station point.",
+    "detail": true
+  }
+]
