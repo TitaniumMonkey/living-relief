@@ -2,6 +2,10 @@
 
 An interactive collection of sculpted landscapes, opening in Peru’s Sacred Valley. Switch between a measured relief atlas and a cinematic Living World with mapped buildings, canopy-guided trees, agricultural surroundings, and illustrative activity. React, Three.js, and Vinext produce a fully static app. No database, runtime map subscription, API key, or live Overpass service is needed.
 
+<img width="3428" height="1663" alt="Screenshot 2026-11-12 at 10-11-43" src="https://github.com/user-attachments/assets/09cd01b8-988d-47f7-a62e-74f325aa5dc7" />
+
+
+
 **RELIEF V3 adds a seated rail journey, smooth navigation, and leaner Living World rendering.**
 
 ## Run locally
@@ -14,6 +18,8 @@ Use Node 22.13+ (validated with Node 26.7.0).
 - `npm start` serves the production preview at http://127.0.0.1:4318/.
 
 ## Living World
+<img width="3421" height="1662" alt="Screenshot 2026-11-12 at 10-12-42" src="https://github.com/user-attachments/assets/dfafdd9c-b9cf-4f2a-95d6-5e2fef8cb48b" />
+
 
 The mode switch keeps Relief available and enables Living World for the Peru regions. Sacred Valley and Machu Picchu share one continuous Peru World. Their collection buttons retain separate measurement grids and camera shortcuts without rebuilding the scene. Detailed areas include Urubamba, Machu Picchu/Aguas Calientes, Maras/Moray/Salineras, Cusco/Sacsayhuamán and Alejandro Velasco Astete Airport, Chinchero, Ollantaytambo, and Pisac. Yucay, Huayllabamba, Calca, and Lamay have smaller areas. The fly-to menu includes nearby place markers; detailed coverage is bounded by the world manifest. Camera clearance is approximately 30 m above terrain or mapped buildings. No walking controls or building interiors are included; the rail journey has an illustrative passenger cabin.
 
